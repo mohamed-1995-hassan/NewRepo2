@@ -1,0 +1,5 @@
+{
+  "unPinnedCourseJson": "{\"CoursesCount\": null,\"CustomFieldsSearchCrieteria\":[],\"GetArchivedCourses\": false,\"OrganizationTermId\": null,\"courseKeyWord\": \"\",\"courseStatus\": null,\"getPendingRequestsCount\": true,\"instructorId\": null,\"orderBy\": \"0\",\"pageNumber\": 1,\"pinStatus\": null}",
+  "BaseUrlWinji": "https://xwinji.azurewebsites.net/api/",
+  "BaseUrlAssessment": "https://xwinji-assessments.azurewebsites.net/api/"
+}
